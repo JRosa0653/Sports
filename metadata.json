@@ -1,6 +1,0 @@
-{
-  "name": "Punto Vivo",
-  "description": "Premium sports data and real-time scores dashboard featuring live match centers, analytics comparison tools, and AI-powered match previews.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
